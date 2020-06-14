@@ -10,7 +10,6 @@ developing an Image Hoster project from scratch which store the data in the Post
 7.Delete an Image<br/>
 8.Tags<br/>
 # Screenshots 
-![](https://github.com/preetysangwan30/ImageHosterScreenshots/blob/master/2020-04-28%20(1).png)
 ![](https://github.com/preetysangwan30/ImageHosterScreenshots/blob/master/2020-04-28%20(2).png)
 ![](https://github.com/preetysangwan30/ImageHosterScreenshots/blob/master/2020-04-28%20(4).png)
 ![](https://github.com/preetysangwan30/ImageHosterScreenshots/blob/master/2020-04-28%20(5).png)
