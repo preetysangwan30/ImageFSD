@@ -14,7 +14,6 @@ developing an Image Hoster project from scratch which store the data in the Post
 ![](https://github.com/preetysangwan30/ImageHosterScreenshots/blob/master/2020-04-28%20(4).png)
 ![](https://github.com/preetysangwan30/ImageHosterScreenshots/blob/master/2020-04-28%20(5).png)
 ![](https://github.com/preetysangwan30/ImageHosterScreenshots/blob/master/2020-04-28%20(6).png)
-![](https://github.com/preetysangwan30/ImageHosterScreenshots/blob/master/2020-04-28%20(9).png)
 ![](https://github.com/preetysangwan30/ImageHosterScreenshots/blob/master/2020-04-28%20(10).png)
 ![](https://github.com/preetysangwan30/ImageHosterScreenshots/blob/master/2020-04-28%20(11).png)
 ![](https://github.com/preetysangwan30/ImageHosterScreenshots/blob/master/2020-04-28%20(11).png)
